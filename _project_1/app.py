@@ -16,7 +16,7 @@ password.send_keys("9hKwXK6gfmu#FDH")
 time.sleep(0.5)
 login.click()
 
-time.sleep(7)
+time.sleep(5)
 driver.quit()
 
 
